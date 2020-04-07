@@ -14,7 +14,7 @@ So, we've found some workaround solution to fix this issue, the details are as f
 - [x] Remove qemu-guest-agent
 
 
-2. Install vm-tools for SLES 
+2. **Install vm-tools for SLES** 
 
 Open terminal (Suppose /dev/sr0 as a mounted drive which is having vm-tools-* )
 ```
@@ -30,25 +30,25 @@ $ service vm-agent status
 ```
 
 
-3. Check vm-agent started successfully by running 
+3. **Check vm-agent started successfully by running.** 
 
 `$ sudo service vm-agent status`
 
 
-4. Install qemu-guest-agent 
+4. **Install qemu-guest-agent** 
 
 - [x] Open Yast --> Software manager
 - [x] Install qemu-guest-agent
 
 
-5. Restart vm-agent 
+5. **Restart vm-agent** 
 
 `$ sudo vm-agent restart`
 
-6. Check the service is up and running.
+6. **Check the service is up and running.**
 
 
-Author: [Manoj Mohanan](mail-to:manojmohanan.kollam@gmail.com) - [Devexpat](https://devexpat.com) - [Phpremedy](https://phpremedy.com)
+Author: [Manoj Mohanan](manojmohanan.kollam@gmail.com) - [Devexpat](https://devexpat.com) - [Phpremedy](https://phpremedy.com)
 
 
 *END*

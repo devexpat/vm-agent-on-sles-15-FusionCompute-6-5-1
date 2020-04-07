@@ -1,4 +1,4 @@
-> **FusionCompute – VM Agent Installation in SLES 15 **
+# FusionCompute – VM Agent Installation in SLES 15
 
 We've found vm-agent not running on newly installed SLES 15 (SUSE Linux Enterprise Server 15) - FusionCompute 6.5.1 after installed VM Tools.
 

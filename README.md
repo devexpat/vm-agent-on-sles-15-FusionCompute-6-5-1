@@ -48,7 +48,7 @@ $ service vm-agent status
 6. **Check the service is up and running.**
 
 
-Author: [Manoj Mohanan](manojmohanan.kollam@gmail.com) - [Devexpat](https://devexpat.com) - [Phpremedy](https://phpremedy.com)
+Author: [Manoj Mohanan](mailto:manojmohanan.kollam@gmail.com) - [Devexpat](https://devexpat.com) - [Phpremedy](https://phpremedy.com)
 
 
 *END*
